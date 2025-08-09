@@ -1,5 +1,10 @@
 {
-  "version": "1.0.1",
-  "changelog": "Fix bug",
-  "url": "https://play.google.com/store/apps/details?id=com.inupoi.app"
+  "android": {
+    "version": "1.0.1",
+    "releaseNotes": "• Bug fixes and performance improvements.\n• New UI for the home screen.\n• Added new features."
+  },
+  "ios": {
+    "version": "1.0.2",
+    "releaseNotes": "• iOS-specific bug fixes.\n• Improved dark mode support."
+  }
 }
