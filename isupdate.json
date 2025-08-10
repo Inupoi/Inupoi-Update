@@ -1,6 +1,6 @@
 {
   "android": {
-    "version": "1.0.2",
+    "version": "1.0.0",
     "releaseNotes": "\n• Minor UI adjustments to the home screen.",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.example.inupoi"
   },
