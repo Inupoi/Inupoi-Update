@@ -1,10 +1,12 @@
 {
   "android": {
-    "version": "1.0.1",
-    "releaseNotes": "• Bug fixes and performance improvements.\n• New UI for the home screen.\n• Added new features."
+    "version": "1.0.2",
+    "releaseNotes": "• Added support for new video formats.\n• Improved app stability on low-end devices.\n• Minor UI adjustments to the home screen.",
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.example.inupoi"
   },
   "ios": {
-    "version": "1.0.2",
-    "releaseNotes": "• iOS-specific bug fixes.\n• Improved dark mode support."
+    "version": "1.0.3",
+    "releaseNotes": "• Optimized for iOS 17.\n• Enhanced video playback performance.\n• Fixed a bug with a crashing in the search bar.",
+    "updateUrl": "https://apps.apple.com/us/app/inupoi/id1234567890"
   }
 }
